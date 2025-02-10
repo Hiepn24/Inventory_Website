@@ -1,5 +1,5 @@
 # Inventory_Website
-Demo: 
+Demo: Inventory management website has functions to CRUD suppliers, customers, categories, products, units, purchases and print pdf report files.
   + Frontend: using Html/Js + TailwindCss
   + Backend: using Laravel Framework (Laravel 11)
   + Database: using Mysql
